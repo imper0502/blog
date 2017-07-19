@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>心記</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://imper0502.github.io/"/>
+  <updated>2017-07-19T08:33:14.946Z</updated>
+  <id>https://imper0502.github.io/</id>
+  
+  <author>
+    <name>James Wu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test page</title>
+    <link href="https://imper0502.github.io/2017/07/19/page/"/>
+    <id>https://imper0502.github.io/2017/07/19/page/</id>
+    <published>2017-07-19T07:58:40.000Z</published>
+    <updated>2017-07-19T08:33:14.946Z</updated>
+    
+    <content type="html"><![CDATA[<p>這只是單純的測試頁。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這只是單純的測試頁。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
